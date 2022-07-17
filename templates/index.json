@@ -192,9 +192,9 @@
         },
         "7f639e74-2a91-4c25-b32e-9e73d8e37a63": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/Aromatic.jpg",
+            "title": "Aromatic",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
